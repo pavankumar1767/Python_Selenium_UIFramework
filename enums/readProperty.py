@@ -8,3 +8,4 @@ class CredentialsOption(Enum):
     BASE_URL = "baseURL"
     USERNAME = "useremail"
     PASSWORD = "password"
+    BROWSER = "browser"
