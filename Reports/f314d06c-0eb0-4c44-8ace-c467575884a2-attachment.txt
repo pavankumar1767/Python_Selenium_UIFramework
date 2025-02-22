@@ -1,0 +1,6 @@
+[32mINFO    [0m root:basePage.py:299 'admin@yourstore.com' entered in Username Field.
+[32mINFO    [0m root:basePage.py:279 Screenshot captured and attached: Username Field_input
+[32mINFO    [0m root:basePage.py:299 'admin' entered in Password Field.
+[32mINFO    [0m root:basePage.py:279 Screenshot captured and attached: Password Field_input
+[32mINFO    [0m root:basePage.py:285 Login Button is clicked.
+[32mINFO    [0m root:basePage.py:279 Screenshot captured and attached: Login Button_clicked

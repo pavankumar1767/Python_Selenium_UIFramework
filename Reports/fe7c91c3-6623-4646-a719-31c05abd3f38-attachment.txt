@@ -1,0 +1,6 @@
+[32mINFO    [0m root:basePage.py:253 Entered 'admin@yourstore.com' in Username Field.
+[32mINFO    [0m root:basePage.py:234 Screenshot captured and attached to report: Username Field_input
+[32mINFO    [0m root:basePage.py:253 Entered 'admin' in Password Field.
+[32mINFO    [0m root:basePage.py:234 Screenshot captured and attached to report: Password Field_input
+[32mINFO    [0m root:basePage.py:240 Login Button clicked.
+[32mINFO    [0m root:basePage.py:234 Screenshot captured and attached to report: Login Button_clicked
